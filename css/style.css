@@ -2,10 +2,30 @@
 
 
 /* Header CSS */
+header {
+    text-align: center;
+    background: url("https://s-media-cache-ak0.pinimg.com/736x/a5/f9/6c/a5f96c804550ab33ac6f44ea6293ff24.jpg");
+    background-size: cover;
+    color: white;
+    margin-top: 50px;
+    
+}
 
+#profile{
+    height:200px; 
+    width:200px;
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+}
+h1 {
+    font-size: 70px;
+    margin-bottom: 50px;
+}
 
 
 /* Section CSS */
+
 
 
 
