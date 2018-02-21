@@ -1,46 +1,48 @@
-/* Nav Bar CSS */
-
-
-/* Header CSS */
-header {
+#indexj{
+    margin-top: 50px;
     text-align: center;
     background: url("https://s-media-cache-ak0.pinimg.com/736x/a5/f9/6c/a5f96c804550ab33ac6f44ea6293ff24.jpg");
     background-size: cover;
     color: white;
-    margin-top: 50px;
-    
 }
-
+#indexj2{
+    background-color: rgba(255,255,255,.2);
+    max-width: 80%;
+}
 #profile{
     height:200px; 
     width:200px;
-    margin: 40px 0px 0px 0px;
+    margin-top: 40px;
     border: 7px solid white;
     border-radius: 20px;
-}
-h1 {
-    font-size: 70px;
-    margin-bottom: 50px;
+    background-color: #585858;
 }
 
 
-/* Section CSS */
+
+
+#about{
+    text-align: center;
+}
+#aboutj{
+    margin-top: 50px;
+    background: url("https://s-media-cache-ak0.pinimg.com/736x/a5/f9/6c/a5f96c804550ab33ac6f44ea6293ff24.jpg");
+    background-size: cover;
+    color: white;
+}
+#aboutme{
+    margin-bottom: 20px;
+}
+#info{
+    font-size: 30px;
+}
 
 
 
 
-/* About Section CSS */
-
-
-
-/* Portfolio Item CSS */
-
-
-
-/* Footer CSS */
-
-
-
-/* Button CSS */
-
-
+#contact{
+    text-align: center;
+}
+#contactj{
+    margin-bottom: 60px;
+}
